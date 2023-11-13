@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "TodoList",
-    "slug": "TodoList",
+    "name": "To do List by Hakke",
+    "slug": "to-do-list-by-hakke",
+    "description": "To do list app made by Youtube video guide",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/background.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
